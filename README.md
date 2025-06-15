@@ -1,4 +1,4 @@
-<h1 align="center"> :herb: ZProger Build :herb: </h1>
+<h1 align="center"> :herb: bspwm :herb: </h1>
 
 <!-- BADGES -->
 </br>
