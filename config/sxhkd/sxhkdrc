@@ -28,8 +28,8 @@ super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l}
-	{firefox, \
+super + shift + {w,f,p,t,c,v,i,x,q,k,l}
+	{google-chrome-stable, \
 	thunar, \
 	pavucontrol, \
 	telegram-desktop, \
