@@ -1,9 +1,13 @@
 
 # Create aliases
 alias cls="clear"
-alias g="git"
-alias n="nvim"
 alias m="micro"
+
+# install
+alias i="sudo pacman -S"
+
+# delete
+alias r="sudo pacman -R"
 
 # TODO: Replace journal aliases after switching to OpenRC
 
